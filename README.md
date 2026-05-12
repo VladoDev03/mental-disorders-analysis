@@ -54,20 +54,20 @@ lifestyle, physiological, and psychological features using:
 - 5-Fold Cross-Validation for reliable performance estimation
 - Standardized coefficients for feature importance interpretation
 
-**Results:** $ R^2 $ = 0.729, MSE = 1.255 (RMSE $ \approx $ 1.12 on a 1-10 scale)
+**Results:** $R^2$ = 0.729, MSE = 1.255 (RMSE $\approx$ 1.12 on a 1-10 scale)
 
 ---
 
 ## Key Findings
 
 - **Family history of mental illness** is statistically associated with depression
-  in students ($ \chi^2 $ test, p $ \approx $ 7.5 $ \times $ $ 10^{-19} $)
+  in students ($\chi^2$ test, p $\approx$ 7.5 $\times$ $10^{-19}$)
 - **Gender** is not significantly associated with depression (p = 0.74)
 - **Comorbid depression and anxiety** do not significantly alter OCD symptom
   duration compared to patients with neither condition (Mann-Whitney U, p = 0.103)
 - **Y-BOCS scores** do not differ significantly across obsession types (H = 4.769,
   p = 0.312) or compulsion types (H = 9.383, p = 0.052)
-- **Stress level** is the strongest predictor of anxiety (standardized $ \beta $ $ \approx $ 1.10),
+- **Stress level** is the strongest predictor of anxiety (standardized $\beta$ $\approx$ 1.10),
   followed by therapy sessions per month and sleep hours
 
 ---
@@ -130,7 +130,7 @@ cd disorders-analysis
 jupyter notebook disorders-analysis.ipynb
 ```
 
-4. Run all cells: **Kernel $ \rightarrow $ Restart & Run All**
+4. Run all cells: **Kernel $\rightarrow$ Restart & Run All**
 
 ---
 
